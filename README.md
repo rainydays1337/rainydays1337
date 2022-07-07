@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-<iframe onload="javascript:prompt(document.domain, document.cookie)" id="xss" role="xss">hello xss
-<!--
-**rainydays1337/rainydays1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**github/github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
