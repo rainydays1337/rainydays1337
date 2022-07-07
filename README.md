@@ -1,5 +1,6 @@
 ### Hi there 👋
-<script\x0Atype="text/javascript">javascript:alert(1);</script>
+
+<img src=1 href=1 onerror="javascript:alert(1)"></img>
 <!--
 **rainydays1337/rainydays1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
