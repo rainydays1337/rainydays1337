@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src=1 href=1 onerror="javascript:alert(1)"></img>
+<a href="javas\x0Ccript:javascript:alert(1)" id="fuzzelement1">test</a>
 <!--
 **rainydays1337/rainydays1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
