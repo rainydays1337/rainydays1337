@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img src="https://pict.sindonews.net/dyn/360/pena/news/2022/05/15/700/769971/6-serial-anime-yang-produksinya-dibuat-2-studio-berbeda-ayl.jpg" />
 <!--
 **rainydays1337/rainydays1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
